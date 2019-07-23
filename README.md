@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Bienvenidos a Tvofaldur.
 
-You can use the [editor on GitHub](https://github.com/tvofaldur/tvofaldur/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+El código de lote del mes de Agosto es: U5M0H.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
